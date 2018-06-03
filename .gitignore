@@ -1,0 +1,4 @@
+config
+.terraform/
+terraform.tfstate*
+/modules/kubernetes/data
